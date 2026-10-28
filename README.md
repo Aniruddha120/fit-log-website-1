@@ -1,5 +1,9 @@
 # Fit Log
 
+Welcome to my fitlog project. To visit live demo please click: https://fit-log-website-1.onrender.com
+
+But if you want to run locally click: Open `http://localhost:3000/`.
+
 A workout library and planning app. Browse training sessions, open the details, and build your own plan.
 
 Live data comes from the Fit Log API (`https://api.abcz.workers.dev/api/fitlog`) with a fallback endpoint.
@@ -29,8 +33,6 @@ Live data comes from the Fit Log API (`https://api.abcz.workers.dev/api/fitlog`)
 npm install
 npm run dev
 ```
-
-Open `http://localhost:3000`.
 
 ## Scripts
 
