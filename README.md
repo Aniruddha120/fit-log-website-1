@@ -1,6 +1,6 @@
 # Fit Log
 
-Welcome to my fitlog project. To visit live demo please click: https://fit-log-website-1.onrender.com
+Welcome to my fitlog project. To visit live demo please click: https://fit-log-website-1.onrender.com or https://fit-log-git-main-aniruddha120.vercel.app/
 
 But if you want to run locally click: Open `http://localhost:3000/`.
 
